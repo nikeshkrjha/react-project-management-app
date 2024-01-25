@@ -15,6 +15,7 @@ This project is simple demo of using the following React Concepts
 ![alt text](https://github.com/nikeshkrjha/react-project-management-app/blob/main/screenshots/Screenshot%202024-01-24%20at%208.50.22%E2%80%AFPM.png)
 
 - Project Creation Page
+  
 ![alt text](https://github.com/nikeshkrjha/react-project-management-app/blob/main/screenshots/Screenshot%202024-01-24%20at%208.48.24%E2%80%AFPM.png)
 
 - Project Details with Associated Tasks
