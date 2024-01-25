@@ -8,6 +8,10 @@ This project is simple demo of using the following React Concepts
 - Developing UI components in react
 - State management
 
+### Tech stack details
+- Build tool: Vite
+- CSS framework: tailwind
+
 ### Screenshots of the application
 
 - Home Page
